@@ -28,7 +28,7 @@ function _0x440c(_0xff7e8a, _0x55b825) {
   }
 }(_0x5356, 611392), global[_0x6e9f5f(400)] = fs[_0x6e9f5f(406)](_0x6e9f5f(414)), global.ig = _0x6e9f5f(408), global.yt = _0x6e9f5f(398), global.ttowner = "justt.patron", global[_0x6e9f5f(402)] = _0x6e9f5f(396), global[_0x6e9f5f(407)] = [_0x6e9f5f(395)], global[_0x6e9f5f(410)] = _0x6e9f5f(395), global.socialm = "GitHub: Itzpatron", global.location = _0x6e9f5f(413));
 function _0x5356() {
-  var _0x2d608b = ["2TiYyRi", "ownername", "4848248JOyFIO", "10285nogbjK", "24551hmyaFj", "readFileSync", "owner", "justt.patron", "4122452LsfHwQ", "ownernomer", "3122538rKjRfI", "13069737fNnLij", "Nigeria", "./data/image/thumb.jpg", "2348133729715", "PATRON 🚹", "996yvEvRn", "Itzpatron1", "7569156ZVpYsb", "thumbnail"];
+  var _0x2d608b = ["2TiYyRi", "Frank", "4848248JOyFIO", "10285nogbjK", "24551hmyaFj", "readFileSync", "owner", "justt.patron", "4122452LsfHwQ", "ownernomer", "3122538rKjRfI", "13069737fNnLij", "Nigeria", "./data/image/thumb.jpg", "2348133729715", "PATRON 🚹", "996yvEvRn", "Itzpatron1", "7569156ZVpYsb", "thumbnail"];
   _0x5356 = function () {
     return _0x2d608b;
   };
@@ -46,7 +46,8 @@ function _0xe1c6(_0x488713, _0x4b148) {
   }, _0xe1c6(_0x488713, _0x4b148);
 }
 function _0x8e09() {
-  var _0x15a2b3 = ["ownerNumber", "2348133729715", "1042636teAGzd", "wagc", "websitex", "botnumber", "Sticker created by", "2348133729715@s.whatsapp.net", "2VoTTbt", "ᴘᴀᴛʀᴏɴ-ᴍᴅ", "packname", "460476jKclmm", "ᴘᴀᴛʀᴏɴ-ᴍᴅ 🚹", "331209drywgW", "https://github.com/Itzpatron/PATRON-MD", "ownernumber", "ᴘᴀᴛʀᴏɴ-ᴍᴅ🚹", "1256664XwfMbY", "10WbDnKq", "author", "456740fytdfb", "38255xwXZfH", "6oiKDdL", "botscript", "botname", "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", "160282IElaUI"];
+  var _0x15a2b3 = ["2348147077152", "2348147077152", "1042636teAGzd", "wagc", "websitex", "2348147077152", "Sticker created by", "2348147077152@s.whatsapp.net", "2VoTTbt", "ᴘᴀᴛʀᴏɴ-ᴍᴅ", "packname", "460476jKclmm", "ᴘᴀᴛʀᴏɴ-ᴍᴅ 🚹", "331209drywgW", "https://github.com/Itzpatron/PATRON-MD", "ownernumber", "ᴘᴀᴛʀᴏɴ-ᴍᴅ🚹", "1256664XwfMbY", "10WbDnKq", "author", "456740fytdfb", "38255xwXZfH", "6oiKDdL", "botscript", "botname", "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", "160282IElaUI"];
+  _0x8e09 = function () {@s.whatsapp.net", "2VoTTbt", "ᴘᴀᴛʀᴏɴ-ᴍᴅ", "packname", "460476jKclmm", "ᴘᴀᴛʀᴏɴ-ᴍᴅ 🚹", "331209drywgW", "https://github.com/Itzpatron/PATRON-MD", "ownernumber", "ᴘᴀᴛʀᴏɴ-ᴍᴅ🚹", "1256664XwfMbY", "10WbDnKq", "author", "456740fytdfb", "38255xwXZfH", "6oiKDdL", "botscript", "botname", "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", "160282IElaUI"];
   _0x8e09 = function () {
     return _0x15a2b3;
   };
@@ -62,8 +63,8 @@ function _0x8e09() {
       _0x266e89.push(_0x266e89.shift());
     }
   }
-}(_0x8e09, 105820), global[_0x1bcf00(146)] = _0x1bcf00(131), global[_0x1bcf00(137)] = _0x1bcf00(150), global[_0x1bcf00(127)] = "2348133729715", global.ownername = _0x1bcf00(138), global[_0x1bcf00(149)] = [_0x1bcf00(129)], global.ownerweb = "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", global[_0x1bcf00(153)] = _0x1bcf00(147), global[_0x1bcf00(152)] = _0x1bcf00(147), global.saluran = _0x1bcf00(147), global.themeemoji = "🚹", global.wm = "ᴘᴀᴛʀᴏɴ-ᴍᴅ", global[_0x1bcf00(145)] = _0x1bcf00(136), global[_0x1bcf00(132)] = _0x1bcf00(128), global[_0x1bcf00(141)] = _0x1bcf00(134))
-global.creator = "2348133729715@s.whatsapp.net"
+}(_0x8e09, 105820), global[_0x1bcf00(146)] = _0x1bcf00(131), global[_0x1bcf00(137)] = _0x1bcf00(150), global[_0x1bcf00(127)] = "2348147077152", global.ownername = _0x1bcf00(138), global[_0x1bcf00(149)] = [_0x1bcf00(129)], global.ownerweb = "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", global[_0x1bcf00(153)] = _0x1bcf00(147), global[_0x1bcf00(152)] = _0x1bcf00(147), global.saluran = _0x1bcf00(147), global.themeemoji = "🚹", global.wm = "ᴘᴀᴛʀᴏɴ-ᴍᴅ", global[_0x1bcf00(145)] = _0x1bcf00(136), global[_0x1bcf00(132)] = _0x1bcf00(128), global[_0x1bcf00(141)] = _0x1bcf00(134))
+global.creator = "2348147077152@s.whatsapp.net"
 global.bankname = "MONIEPOINT"
 global.banknumber = "5518447058"
 global.bankowner = "FADARE"
